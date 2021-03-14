@@ -63,8 +63,8 @@ for (var i = 9; i < workingHours[8] + 1; i++) {
 // }
 
 
-// button17.addEventListener('click', function(event) {
-//     console.log(event)
-//     localStorage.setItem('event17', event17.value)
-
+button17.addEventListener('click', function(event) {
+    console.log(event)
+    localStorage.setItem('event17', event17.value)
+})
 // 
